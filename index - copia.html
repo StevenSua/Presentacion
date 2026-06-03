@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teorías de Internacionalización — Presentación</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="particlesCanvas" class="particles-canvas" aria-hidden="true"></canvas>
+
+  <div class="presentation" id="presentation">
+    <header class="top-bar">
+      <span class="top-bar__brand">Internacionalización de Pymes · Panorama No. 3</span>
+      <div class="top-bar__actions">
+        <span class="top-bar__counter"><span id="currentSlide">1</span> / <span id="totalSlides">20</span></span>
+        <button type="button" class="btn-slides-picker" id="btnSlidesPicker" aria-expanded="false" aria-controls="slidesPicker">
+          Diapositivas
+        </button>
+      </div>
+    </header>
+
+    <div class="slides-picker" id="slidesPicker" role="dialog" aria-modal="true" aria-labelledby="slidesPickerTitle" hidden>
+      <div class="slides-picker__backdrop" id="slidesPickerBackdrop"></div>
+      <div class="slides-picker__panel">
+        <header class="slides-picker__header">
+          <h2 class="slides-picker__title" id="slidesPickerTitle">Ir a diapositiva</h2>
+          <button type="button" class="slides-picker__close" id="slidesPickerClose" aria-label="Cerrar">×</button>
+        </header>
+        <ul class="slides-picker__list" id="slidesPickerList"></ul>
+      </div>
+    </div>
+
+    <main class="stage">
+      <div class="book" id="book">
+
+        <!-- 1 Portada -->
+        <section class="slide slide--cover active" data-slide="1" data-nav-title="Portada">
+          <span class="slide-watermark">01</span>
+          <div class="slide__inner slide__inner--cover">
+            <div class="cover-content">
+              <p class="eyebrow"><span class="pulse-dot"></span> Revista Panorama No. 3 · Actividad 4</p>
+              <h1 class="title-main">Teorías de<br><em>Internacionalización</em></h1>
+              <p class="subtitle">Pymes de base tecnológica en Bogotá · Cuatro artículos · NIC/NIIF</p>
+              <div class="cover-pills">
+                <span class="pill">Económica</span>
+                <span class="pill">Proceso</span>
+                <span class="pill">Redes</span>
+                <span class="pill">Casos X1–X3</span>
+              </div>
+              <div class="authors-block">
+                <p class="authors-label">Presentado por</p>
+                <p class="authors-names">Luisa Fernanda Ramos · Ana Valentina Amador</p>
+              </div>
+              <p class="source-note">Cardozo, Chavarro, Ramírez · Burgos (NIIF) · Politécnico Grancolombiano</p>
+            </div>
+            <div class="cover-visual">
+              <div class="visual-glow"></div>
+              <img src="images/slide-01.png" alt="Trayectoria de internacionalización" class="slide-img slide-img--hero">
+            </div>
+          </div>
+        </section>
+
+        <!-- 2 Agenda -->
+        <section class="slide" data-slide="2" data-nav-title="Contenido">
+          <span class="slide-watermark">02</span>
+          <div class="slide__inner slide-layout">
+            <div class="slide-main">
+              <h2 class="slide-title">Contenido</h2>
+              <p class="lead">Edición académica integrada: teoría, contexto colombiano, evidencia empírica y gestión contable global.</p>
+              <div class="agenda-grid">
+                <article class="agenda-card">
+                  <span class="agenda-num">01</span>
+                  <h3>Marco conceptual</h3>
+                  <p>Económica, proceso, pymes, 3 generaciones, vacíos de investigación</p>
+                </article>
+                <article class="agenda-card">
+                  <span class="agenda-num">02</span>
+                  <h3>Contexto colombiano</h3>
+                  <p>Ley 590/905, Bogotá, sectores software y artes gráficas</p>
+                </article>
+                <article class="agenda-card">
+                  <span class="agenda-num">03</span>
+                  <h3>Casos de estudio</h3>
+                  <p>16 pymes · X1 biotecnología · X2 holografía · X3 artes gráficas</p>
+                </article>
+                <article class="agenda-card">
+                  <span class="agenda-num">04</span>
+                  <h3>Cierre</h3>
+                  <p>NIIF, síntesis transversal, conclusiones, glosario</p>
+                </article>
+              </div>
+              <p class="hint-bar">Pasa el cursor sobre textos resaltados para ver detalle del documento ↓</p>
+            </div>
+            <aside class="slide-aside">
+              <img src="images/slide-10.png" alt="Etapas de internacionalización" class="slide-img">
+              <p class="aside-caption">Del mercado local al alcance global</p>
+            </aside>
+          </div>
+        </section>
+
+        <!-- 3 Resumen -->
+        <section class="slide" data-slide="3" data-nav-title="Resumen ejecutivo">
+          <span class="slide-watermark">03</span>
+          <div class="slide__inner slide-layout">
+            <div class="slide-main">
+              <h2 class="slide-title">Resumen ejecutivo</h2>
+              <p class="lead">No hay una sola teoría: las pymes tecnológicas combinan gradualidad, redes, oportunidad y liderazgo emprendedor.</p>
+              <ul class="bullet-list bullet-list--dense">
+                <li><span class="tip" data-tip-title="Alcance amplio" data-detail="Según el PDF: importación, I+D internacional, alianzas, redes de conocimiento, inversión directa, financiamiento, licencias y prestación transfronteriza de servicios. No equivale solo a exportar bienes.">Internacionalización ≠ solo exportar</span></li>
+                <li><span class="tip" data-tip-title="Pymes tecnológicas" data-detail="Pueden internacionalizar conocimiento, redes o servicios antes de consolidar una operación comercial nacional amplia. Desafían modelos pensados para multinacionales.">Desafían modelos tradicionales</span></li>
+                <li><span class="tip" data-tip-title="Emprendedor" data-detail="Aversión o disposición al riesgo, visión global y detección de oportunidades explican trayectorias que la planeación formal no captura por completo.">Actitud del empresario</span></li>
+                <li><span class="tip" data-tip-title="Redes" data-detail="Contactos académicos, científicos, proveedores, clientes, ferias, alianzas y cooperación internacional abren mercados sin planeación previa.">Redes decisivas</span></li>
+                <li><span class="tip" data-tip-title="Bogotá" data-detail="Centro empresarial y competitivo del país, con retos de innovación sistemática, bienes de capital y orientación al mercado interno.">Bogotá como laboratorio</span></li>
+                <li><span class="tip" data-tip-title="NIIF" data-detail="Las NIC/NIIF buscan estados financieros comparables, transparentes y útiles para socios, bancos e inversionistas en mercados globales.">Contabilidad internacional integrada</span></li>
+              </ul>
+            </div>
+            <aside class="slide-aside">
+              <img src="images/slide-05.png" alt="Marco estratégico" class="slide-img">
+              <blockquote class="aside-quote">Proceso emergente, relacional y basado en conocimiento — no siempre lineal ni planificado.</blockquote>
+            </aside>
+          </div>
+        </section>
+
+        <!-- 4 Estructura -->
+        <section class="slide" data-slide="4" data-nav-title="Estructura del documento">
+          <span class="slide-watermark">04</span>
+          <div class="slide__inner slide-layout slide-layout--reverse">
+            <aside class="slide-aside slide-aside--wide">
+              <img src="images/slide-16.png" alt="Conectividad global" class="slide-img">
+            </aside>
+            <div class="slide-main">
+              <h2 class="slide-title">Estructura del documento</h2>
+              <div class="timeline">
+                <div class="timeline-item">
+                  <span class="timeline-tag">Pág. 6–24</span>
+                  <div>
+                    <h3>Teorías de internacionalización</h3>
+                    <p><span class="tip" data-tip-title="Artículo 1" data-detail="Clasifica perspectivas económicas, de proceso y orientadas a pymes; propone 3 generaciones de modelos y nuevas preguntas de investigación para economías emergentes.">Económica · proceso · pymes · vacíos de estudio</span></p>
+                  </div>
+                </div>
+                <div class="timeline-item">
+                  <span class="timeline-tag">Pág. 26–43</span>
+                  <div>
+                    <h3>Pymes bogotanas</h3>
+                    <p><span class="tip" data-tip-title="Artículo 2" data-detail="Balance 2000–2007: definiciones, datos, Ley 590/905, competitividad de Bogotá, sectores tecnológicos y literatura colombiana (explicativa vs. deber ser).">Contexto · datos · política pública</span></p>
+                  </div>
+                </div>
+                <div class="timeline-item">
+                  <span class="timeline-tag">Pág. 45–66</span>
+                  <div>
+                    <h3>Casos X1, X2, X3</h3>
+                    <p><span class="tip" data-tip-title="Artículo 3" data-detail="Proyecto con 16 pymes de base tecnológica. Contrasta teorías con prácticas: born global, prudencia exportadora, coyuntura y peso del fundador.">Evidencia empírica en Bogotá</span></p>
+                  </div>
+                </div>
+                <div class="timeline-item">
+                  <span class="timeline-tag">Pág. 67–72</span>
+                  <div>
+                    <h3>NIC / NIIF</h3>
+                    <p><span class="tip" data-tip-title="Artículo 4 · Burgos" data-detail="Origen, procedimiento de elaboración de normas (IASB), relevancia en Colombia y vínculo con transparencia y competitividad internacional.">Armonización contable global</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 5 Económica I -->
+        <section class="slide" data-slide="5" data-nav-title="Perspectiva económica (I)">
+          <span class="slide-watermark">05</span>
+          <div class="slide__inner slide-layout">
+            <div class="slide-main">
+              <h2 class="slide-title">Perspectiva económica (I)</h2>
+              <p class="lead">Comercio internacional, ventajas y decisión de invertir en el exterior (IDE).</p>
+              <div class="theory-grid theory-grid--2x2">
+                <div class="theory-card">
+                  <h3>Ventaja absoluta</h3>
+                  <p class="theory-author">Adam Smith</p>
+                  <p><span class="tip" data-tip-title="Smith" data-detail="Un país produce y exporta lo que elabora con mayor eficiencia por disponibilidad o menor costo de recursos. Base del comercio por especialización.">Especialización por eficiencia</span></p>
+                </div>
+                <div class="theory-card">
+                  <h3>Ventaja comparativa</h3>
+                  <p class="theory-author">David Ricardo</p>
+                  <p><span class="tip" data-tip-title="Ricardo" data-detail="Dos países ganan intercambiando aunque uno sea menos eficiente en absoluto, si sus costos relativos de producción son distintos.">Costos relativos</span></p>
+                </div>
+                <div class="theory-card">
+                  <h3>Demanda recíproca</h3>
+                  <p class="theory-author">John Stuart Mill</p>
+                  <p><span class="tip" data-tip-title="Mill" data-detail="El equilibrio comercial depende de la relación entre exportaciones, importaciones y disposición a intercambiar entre países. Explica precios relativos.">Oferta y demanda internacional</span></p>
+                </div>
+                <div class="theory-card">
+                  <h3>Ventaja monopolística</h3>
+                  <p class="theory-author">Hymer · Kindleberger</p>
+                  <p><span class="tip" data-tip-title="IDE" data-detail="La firma en el exterior necesita ventaja exclusiva (tecnología, marca, organización, know-how, crédito) para compensar la desventaja frente a competidores locales.">Ventaja exclusiva en el exterior</span></p>
+                </div>
+              </div>
+            </div>
+            <aside class="slide-aside">
+              <img src="images/slide-07.png" alt="Teorías de comercio" class="slide-img">
+            </aside>
+          </div>
+        </section>
+
+        <!-- 6 Económica II -->
+        <section class="slide" data-slide="6" data-nav-title="Perspectiva económica (II)">
+          <span class="slide-watermark">06</span>
+          <div class="slide__inner slide-layout slide-layout--reverse">
+            <aside class="slide-aside">
+              <img src="images/slide-15.png" alt="Intercambio entre regiones" class="slide-img">
+            </aside>
+            <div class="slide-main">
+              <h2 class="slide-title">Perspectiva económica (II)</h2>
+              <div class="theory-grid theory-grid--stack">
+                <div class="theory-card">
+                  <h3>Internalización</h3>
+                  <p class="theory-author">Buckley y Casson</p>
+                  <p><span class="tip" data-tip-title="Internalización" data-detail="La empresa controla transacciones internamente cuando el mercado externo es costoso o imperfecto; evita vender/licenciar conocimiento o procesos críticos.">Control interno del know-how</span></p>
+                </div>
+                <div class="theory-card">
+                  <h3>Paradigma OLI</h3>
+                  <p class="theory-author">John Dunning</p>
+                  <p><span class="tip" data-tip-title="OLI" data-detail="Inversión exterior si se combinan: Ownership (ventaja de propiedad), Location (ventaja de ubicación) e Internalization (internalizar operaciones). Integra varias escuelas.">Propiedad · Localización · Internalización</span></p>
+                </div>
+                <div class="theory-card">
+                  <h3>IDE macro · Kojima</h3>
+                  <p class="theory-author">Enfoque japonés</p>
+                  <p><span class="tip" data-tip-title="Kojima" data-detail="La inversión fluye desde sectores con desventaja relativa en el país inversor hacia sectores con ventaja potencial en el receptor. Contrasta patrones japoneses y estadounidenses.">Sectores complementarios</span></p>
+                </div>
+                <div class="theory-card">
+                  <h3>Diamante de Porter</h3>
+                  <p class="theory-author">Michael Porter</p>
+                  <p><span class="tip" data-tip-title="Porter" data-detail="Competitividad nacional: factores avanzados, demanda local exigente, industrias relacionadas, rivalidad entre firmas y papel del gobierno. Guía dónde y cómo internacionalizar.">Ventaja competitiva de las naciones</span></p>
+                </div>
+              </div>
+              <p class="footnote"><span class="tip" data-tip-title="Límite para pymes" data-detail="Asumen racionalidad, recursos y análisis de costos amplios. No siempre representan pymes que se mueven por contactos, nichos globales u oportunidades no previstas.">Potentes para multinacionales; limitadas para pymes tecnológicas</span></p>
+            </div>
+          </div>
+        </section>
+
+        <!-- 7 Proceso -->
+        <section class="slide" data-slide="7" data-nav-title="Perspectiva de proceso">
+          <span class="slide-watermark">07</span>
+          <div class="slide__inner slide-layout">
+            <div class="slide-main">
+              <h2 class="slide-title">Perspectiva de proceso</h2>
+              <p class="lead">Aprendizaje gradual, reducción de incertidumbre y compromiso incremental de recursos.</p>
+              <div class="process-cards">
+                <article class="process-card">
+                  <h3>Uppsala</h3>
+                  <p><span class="tip" data-tip-title="Modelo Uppsala" data-detail="Etapas: exportación esporádica → agentes/representantes → sucursal comercial → producción en el exterior. Crece el compromiso según experiencia y menor distancia psicológica (idioma, cultura, instituciones).">Incremental por experiencia</span></p>
+                </article>
+                <article class="process-card">
+                  <h3>Innovación exportadora</h3>
+                  <p><span class="tip" data-tip-title="Innovación" data-detail="Mercado doméstico → preexportadora → exportadora experimental → activa → comprometida. La internacionalización es innovación organizacional bajo incertidumbre.">Etapas del exportador</span></p>
+                </article>
+                <article class="process-card">
+                  <h3>Planeación sistémica</h3>
+                  <p><span class="tip" data-tip-title="Planeación" data-detail="Secuencia: medir oportunidades, objetivos, modo de entrada, plan de mercadeo y ejecución. Supone alta racionalidad; rígida frente a trayectorias emergentes.">Análisis y plan formal</span></p>
+                </article>
+                <article class="process-card">
+                  <h3>Ciclo de vida del producto</h3>
+                  <p><span class="tip" data-tip-title="Ciclo de vida" data-detail="Introducción en origen; crecimiento con exportación e inversión; madurez con relocalización; declive. Mejor para productos industriales que para servicios o conocimiento cambiante.">Localización por madurez</span></p>
+                </article>
+              </div>
+              <div class="concept-row">
+                <span class="concept-chip"><span class="tip" data-tip-title="Compromiso incremental" data-detail="La empresa arriesga más recursos (tiempo, dinero, personal) a medida que aprende sobre el mercado exterior.">Compromiso incremental</span></span>
+                <span class="concept-chip"><span class="tip" data-tip-title="Distancia psicológica" data-detail="Diferencias de idioma, cultura, educación, sistemas políticos o desarrollo industrial que dificultan el flujo de información hacia el mercado.">Distancia psicológica</span></span>
+                <span class="concept-chip"><span class="tip" data-tip-title="Experiencia" data-detail="El conocimiento de un mercado facilita la entrada a otros mercados similares por transferencia de aprendizaje.">Experiencia acumulada</span></span>
+              </div>
+            </div>
+            <aside class="slide-aside">
+              <img src="images/slide-06.png" alt="Etapas de expansión" class="slide-img">
+            </aside>
+          </div>
+        </section>
+
+        <!-- 8 Pymes -->
+        <section class="slide" data-slide="8" data-nav-title="Teorías orientadas a pymes">
+          <span class="slide-watermark">08</span>
+          <div class="slide__inner slide-layout slide-layout--reverse">
+            <aside class="slide-aside">
+              <img src="images/slide-14.png" alt="Red global" class="slide-img">
+            </aside>
+            <div class="slide-main">
+              <h2 class="slide-title">Teorías orientadas a pymes</h2>
+              <div class="pyme-table">
+                <div class="pyme-row pyme-row--head"><span>Enfoque</span><span>Aplicación</span></div>
+                <div class="pyme-row"><strong>Redes</strong><span class="tip" data-tip-title="Redes" data-detail="Clientes, proveedores, distribuidores, competidores, gobiernos y contactos personales compensan falta de recursos con información, confianza y oportunidades.">Relaciones abren mercados</span></div>
+                <div class="pyme-row"><strong>Born global</strong><span class="tip" data-tip-title="Born global" data-detail="Empresas que nacen internacionales o se internacionalizan en los primeros años; típicas en tecnología o nichos que no pueden depender solo del mercado local.">Orientación global temprana</span></div>
+                <div class="pyme-row"><strong>Fases y alianzas</strong><span class="tip" data-tip-title="Fases" data-detail="Internacionalización por alianzas de servicio, distribución, desarrollo de producto o canales globales — rutas más flexibles que exportación tradicional.">Alianzas y canales</span></div>
+                <div class="pyme-row"><strong>Estratégico</strong><span class="tip" data-tip-title="Estrategia" data-detail="Vinculado a competitividad, posicionamiento y expansión; explica cuándo la pyme entra a un nicho internacional donde su tecnología tiene mayor valor.">Nicho y posicionamiento</span></div>
+                <div class="pyme-row"><strong>Mercadeo–emprendimiento</strong><span class="tip" data-tip-title="Interfaz" data-detail="Une innovación, proactividad, toma de riesgos y lectura de oportunidades; el fundador convierte coyunturas no planeadas en negocio internacional.">Rol del directivo</span></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 9 Generaciones -->
+        <section class="slide" data-slide="9" data-nav-title="Generaciones y vacíos">
+          <span class="slide-watermark">09</span>
+          <div class="slide__inner slide-layout">
+            <div class="slide-main">
+              <h2 class="slide-title">Generaciones y vacíos de investigación</h2>
+              <div class="gen-cards">
+                <article class="gen-card">
+                  <span class="gen-label">1ª generación</span>
+                  <h3>Pioneras</h3>
+                  <p>Uppsala, planeación sistémica, contingencia</p>
+                </article>
+                <article class="gen-card">
+                  <span class="gen-label">2ª generación</span>
+                  <h3>Integradoras</h3>
+                  <p>Innovación, costos de transacción, OLI, híbridos</p>
+                </article>
+                <article class="gen-card gen-card--accent">
+                  <span class="gen-label">Nuevas</span>
+                  <h3>Relacionales</h3>
+                  <p>Redes, born global, mercadeo-emprendimiento, holístico</p>
+                </article>
+              </div>
+              <div class="vacios-box">
+                <h3 class="section-label">Preguntas abiertas (PDF)</h3>
+                <ul class="compact-list">
+                  <li><span class="tip" data-tip-title="Vacíos" data-detail="Pocas investigaciones en pymes de economías emergentes (América Latina), pocos estudios longitudinales, poco análisis de cultura organizacional, políticas públicas, edad de entrada internacional y gestión del conocimiento.">Estudios en economías emergentes y Latinoamérica</span></li>
+                  <li><span class="tip" data-tip-title="Nuevos enfoques" data-detail="Profundizar en redes, emprendimiento, sistemas dinámicos, autoorganización y complejidad aplicados a internacionalización de pymes.">Modelos dinámicos y complejos</span></li>
+                </ul>
+              </div>
+            </div>
+            <aside class="slide-aside">
+              <img src="images/slide-03.png" alt="Hitos de internacionalización" class="slide-img">
+            </aside>
+          </div>
+        </section>
+
+        <!-- 10 Colombia -->
+        <section class="slide" data-slide="10" data-nav-title="Pymes en Colombia">
+          <span class="slide-watermark">10</span>
+          <div class="slide__inner slide-layout slide-layout--reverse">
+            <aside class="slide-aside">
+              <img src="images/slide-04.png" alt="Comercio internacional" class="slide-img">
+            </aside>
+            <div class="slide-main">
+              <h2 class="slide-title">Pymes en Colombia</h2>
+              <div class="metric-strip">
+                <div class="metric"><strong>967K</strong><span>microestablecimientos (2000)</span></div>
+                <div class="metric"><strong>Ley 590</strong><span>2000 · Ley 905 · 2003</span></div>
+                <div class="metric"><strong>EE.UU.</strong><span>principal destino exportador</span></div>
+              </div>
+              <div class="two-col">
+                <div>
+                  <h3 class="section-label">Clasificación mipyme</h3>
+                  <ul class="compact-list">
+                    <li><strong>Micro:</strong> ≤10 · activos &lt;501 SMMLV</li>
+                    <li><strong>Pequeña:</strong> 11–50 · 501–5.000 SMMLV</li>
+                    <li><strong>Mediana:</strong> 51–200 · 5.001–30.000 SMMLV</li>
+                  </ul>
+                </div>
+                <div>
+                  <h3 class="section-label">Apoyo institucional</h3>
+                  <p class="text-block"><span class="tip" data-tip-title="Ley 590 / 905" data-detail="Simplificación de trámites, acceso a mercados, comercio exterior, ciencia y tecnología, crédito, garantías, leasing y redescuento con banca de desarrollo. La oferta no garantiza uso efectivo por las pymes.">Trámites, mercados, crédito, CTeI, producción limpia</span></p>
+                </div>
+              </div>
+              <p class="footnote"><span class="tip" data-tip-title="Base tecnológica" data-detail="Desarrolla tecnología, innovación radical o incremental, I+D intensiva, personal científico calificado y protección de propiedad intelectual. Más propensa a redes globales y nichos.">Empresa de base tecnológica: I+D, PI y conocimiento especializado</span></p>
+            </div>
+          </div>
+        </section>
+
+        <!-- 11 Bogotá -->
+        <section class="slide" data-slide="11" data-nav-title="Bogotá: contexto y sectores">
+          <span class="slide-watermark">11</span>
+          <div class="slide__inner slide-layout">
+            <div class="slide-main">
+              <h2 class="slide-title">Bogotá: contexto y sectores</h2>
+              <div class="stats-row">
+                <div class="stat"><span class="stat-num">¼</span><span class="stat-txt">PIB nacional</span></div>
+                <div class="stat"><span class="stat-num">3M</span><span class="stat-txt">empleos</span></div>
+                <div class="stat"><span class="stat-num">98%</span><span class="stat-txt">son pymes</span></div>
+                <div class="stat"><span class="stat-num">55/28</span><span class="stat-txt">% imp./exp. (2002)</span></div>
+              </div>
+              <div class="swot">
+                <div class="swot-col swot-col--pos">
+                  <h3>Fortalezas</h3>
+                  <ul>
+                    <li>1.º en Índice de Competitividad Departamental</li>
+                    <li>Innovación, tecnología e infraestructura</li>
+                    <li>Concentración de comercio exterior</li>
+                  </ul>
+                </div>
+                <div class="swot-col swot-col--neg">
+                  <h3>Debilidades</h3>
+                  <ul>
+                    <li><span class="tip" data-tip-title="Mercado interno" data-detail="Estructura productiva orientada al mercado interno; baja penetración internacional sostenida; gestión empírica en firmas familiares.">Orientación doméstica</span></li>
+                    <li>Dependencia de importaciones tecnológicas</li>
+                    <li><span class="tip" data-tip-title="Innovación" data-detail="Innovación más casual que sistemática; limitada producción de bienes de capital.">Innovación no sistemática</span></li>
+                  </ul>
+                </div>
+              </div>
+              <p class="text-block"><span class="tip" data-tip-title="Sectores" data-detail="Artes gráficas: integración mundial y presión tecnológica. Software: capital humano, exportaciones y economía del conocimiento. Desinterés relativo por estudiar pymes tecnológicas en Bogotá.">Sectores clave: artes gráficas y software</span></p>
+            </div>
+            <aside class="slide-aside">
+              <img src="images/slide-08.png" alt="Crecimiento global" class="slide-img">
+            </aside>
+          </div>
+        </section>
+
+        <!-- 12 Casos intro -->
+        <section class="slide" data-slide="12" data-nav-title="Casos de estudio · Marco">
+          <span class="slide-watermark">12</span>
+          <div class="slide__inner slide-layout slide-layout--reverse">
+            <aside class="slide-aside slide-aside--wide">
+              <img src="images/slide-13.png" alt="Hub global" class="slide-img">
+            </aside>
+            <div class="slide-main">
+              <h2 class="slide-title">Casos de estudio · Marco</h2>
+              <p class="lead">¿Los modelos tradicionales explican las pymes de alta tecnología en Bogotá? <strong>Solo parcialmente.</strong></p>
+              <div class="case-matrix">
+                <div class="case-matrix-row case-matrix-row--head">
+                  <span>Caso</span><span>Sector</span><span>Modelo útil</span>
+                </div>
+                <div class="case-matrix-row">
+                  <strong>X1</strong><span>Biotecnología / I+D</span><span class="tip" data-tip-title="X1" data-detail="Centro sin ánimo de lucro; nace con redes internacionales; cooperación y servicios fuertes; exportación de productos débil. Born global + redes + conocimiento.">Born global</span>
+                </div>
+                <div class="case-matrix-row">
+                  <strong>X2</strong><span>Holografía / óptica</span><span class="tip" data-tip-title="X2" data-detail="Empresa familiar; I+D e importaciones; potencial exportador con baja disposición al riesgo y renuencia a exportar. Mercadeo-emprendimiento prudente.">Prudente</span>
+                </div>
+                <div class="case-matrix-row">
+                  <strong>X3</strong><span>Artes gráficas</span><span class="tip" data-tip-title="X3" data-detail="Referencias de clientes, ferias, tecnología de Japón/Alemania; sede Miami 1999; representación tras 11-S. Coyuntural + redes comerciales.">Coyuntural</span>
+                </div>
+              </div>
+              <p class="footnote">Combinan: oportunidad, redes, importaciones, servicios y aprendizaje informal.</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- 13 Casos detalle -->
+        <section class="slide" data-slide="13" data-nav-title="Análisis X1 · X2 · X3">
+          <span class="slide-watermark">13</span>
+          <div class="slide__inner">
+            <h2 class="slide-title">Análisis detallado X1 · X2 · X3</h2>
+            <div class="cases-detail-grid">
+              <article class="case-detail">
+                <header><span class="case-id">X1</span> Biotecnología</header>
+                <ul>
+                  <li>Incubadora · genética molecular · kits diagnósticos</li>
+                  <li><span class="tip" data-tip-title="Cooperación" data-detail="Proyectos con Argentina, Holanda; congresos, capacitación y acuerdos de I+D. Internacionalización en cadena del conocimiento, no solo ventas.">Redes científicas internacionales</span></li>
+                  <li><span class="tip" data-tip-title="Debilidades X1" data-detail="Exportación débil: logística, mercadeo, respuesta a competidores. Vacíos en propiedad intelectual y regalías en algunos acuerdos.">PI y comercialización</span></li>
+                </ul>
+              </article>
+              <article class="case-detail">
+                <header><span class="case-id">X2</span> Holografía</header>
+                <ul>
+                  <li>Maquinaria y software propios · importación de insumos</li>
+                  <li><span class="tip" data-tip-title="Paradoja X2" data-detail="Alta capacidad técnica y posición regional diferenciada, pero debilidades en mercadeo, inventarios y financiación internacional.">Tecnología sin activar mercado</span></li>
+                  <li><span class="tip" data-tip-title="Riesgo" data-detail="Estructura familiar y temor a negociar desde posición débil frenan exportación agresiva.">Aversión al riesgo</span></li>
+                </ul>
+              </article>
+              <article class="case-detail">
+                <header><span class="case-id">X3</span> Artes gráficas</header>
+                <ul>
+                  <li>Desde 1980 · Samsung · Sony Music Colombia</li>
+                  <li><span class="tip" data-tip-title="X3 internacional" data-detail="Internacionalización por referencias locales, ferias y clientes; sede Miami 1999; luego representación comercial por costos post 11-S.">Referencias y ferias</span></li>
+                  <li><span class="tip" data-tip-title="Ventaja X3" data-detail="Flexibilidad, calidad, adaptación a requerimientos especiales y tecnología de frontera (Japón, Alemania).">Calidad y adaptación</span></li>
+                </ul>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <!-- 14 Comparación -->
+        <section class="slide" data-slide="14" data-nav-title="Matriz comparativa">
+          <span class="slide-watermark">14</span>
+          <div class="slide__inner">
+            <h2 class="slide-title">Matriz comparativa (documento)</h2>
+            <div class="table-wrap">
+              <table class="data-table data-table--full">
+                <thead>
+                  <tr><th>Aspecto</th><th>X1</th><th>X2</th><th>X3</th></tr>
+                </thead>
+                <tbody>
+                  <tr><td>Desarrollo evolutivo</td><td>No</td><td>Sí</td><td>Sí</td></tr>
+                  <tr><td>Planeación sistemática</td><td>No</td><td>No</td><td>No</td></tr>
+                  <tr><td>Unimodal internacional</td><td>No</td><td>No</td><td>No</td></tr>
+                  <tr><td>Redes internacionales</td><td>Sí</td><td>Sí</td><td>No</td></tr>
+                  <tr><td>Coyuntural</td><td>Sí</td><td>No</td><td>Sí</td></tr>
+                  <tr><td>Velocidad</td><td><span class="tip" data-tip-title="Born global" data-detail="Contactos internacionales desde el nacimiento; orientación global en conocimiento y cooperación.">Born global</span></td><td>Lenta</td><td>Lenta</td></tr>
+                  <tr><td>Disposición al riesgo</td><td>Alta</td><td>Baja</td><td>Alta</td></tr>
+                  <tr><td>Edad empresa</td><td>~10 años</td><td>&gt;10 años</td><td>&gt;10 años</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p class="footnote"><span class="tip" data-tip-title="Lección del artículo 3" data-detail="Flexibilidad y adaptación pesan más que procedimientos perfectos. Políticas de comercio exterior centradas en bienes dejan fuera servicios, I+D y transferencia intangible. El liderazgo emprendedor activa o frena la internacionalización.">Flexibilidad &gt; procedimientos · medir conocimiento, no solo exportaciones</span></p>
+          </div>
+        </section>
+
+        <!-- 15 NIIF -->
+        <section class="slide" data-slide="15" data-nav-title="NIC / NIIF">
+          <span class="slide-watermark">15</span>
+          <div class="slide__inner slide-layout slide-layout--reverse">
+            <aside class="slide-aside">
+              <img src="images/slide-12.png" alt="Equilibrio y reporte" class="slide-img">
+            </aside>
+            <div class="slide-main">
+              <h2 class="slide-title">NIC / NIIF</h2>
+              <p class="lead"><span class="tip" data-tip-title="Definición" data-detail="Normas del IASB (antes IASC) para registrar y presentar estados financieros con esencia económica, transparencia y comparabilidad entre países. Antes NIC, hoy IFRS/NIIF.">Estándares internacionales de información financiera</span></p>
+              <div class="steps steps--compact">
+                <div class="step"><span>1</span> Comité especial identifica el problema</div>
+                <div class="step"><span>2</span> Revisa prácticas y marco conceptual</div>
+                <div class="step"><span>3</span> Borrador y exposición pública</div>
+                <div class="step"><span>4</span> Proyecto de norma y nuevos comentarios</div>
+                <div class="step"><span>5</span> Revisión y mayorías calificadas</div>
+                <div class="step"><span>6</span> Aprobación definitiva del Consejo</div>
+              </div>
+              <blockquote class="highlight-quote"><span class="tip" data-tip-title="Colombia" data-detail="Armonización fiscal, monetaria y contable para transparencia, combate a evasión y lavado de activos; las mipymes necesitan infraestructura contable para negociar con actores extranjeros.">Competitividad global exige reportes creíbles y comparables</span></blockquote>
+            </div>
+          </div>
+        </section>
+
+        <!-- 16 Síntesis -->
+        <section class="slide" data-slide="16" data-nav-title="Síntesis transversal">
+          <span class="slide-watermark">16</span>
+          <div class="slide__inner">
+            <h2 class="slide-title">Síntesis transversal</h2>
+            <div class="synthesis-grid">
+              <div class="synth-card">
+                <h3>Teoría</h3>
+                <p><span class="tip" data-tip-title="Teoría" data-detail="Económica, de proceso y de redes explican partes distintas. Usar varias teorías simultáneamente para diagnosticar una pyme, no una sola escuela.">Combinar perspectivas</span></p>
+              </div>
+              <div class="synth-card">
+                <h3>Pyme</h3>
+                <p><span class="tip" data-tip-title="Pyme" data-detail="Restricciones de recursos, informalidad y dependencia del empresario exigen estrategias realistas, progresivas o de nicho.">Estrategias realistas</span></p>
+              </div>
+              <div class="synth-card">
+                <h3>Tecnología</h3>
+                <p><span class="tip" data-tip-title="Tecnología" data-detail="Pueden internacionalizar conocimiento y servicios antes que productos físicos. Medir I+D, redes, cooperación y PI.">Más allá de ventas externas</span></p>
+              </div>
+              <div class="synth-card">
+                <h3>Bogotá</h3>
+                <p><span class="tip" data-tip-title="Bogotá" data-detail="Liderazgo competitivo con debilidades de innovación sistemática; fortalecer capital humano, bienes de capital y mercadeo internacional.">Potencial con brechas</span></p>
+              </div>
+              <div class="synth-card">
+                <h3>Casos</h3>
+                <p><span class="tip" data-tip-title="Casos" data-detail="Born global, prudencia y oportunidad coexisten. Diagnosticar historia, liderazgo, riesgo, mercado y redes.">Sin ruta única</span></p>
+              </div>
+              <div class="synth-card">
+                <h3>Contabilidad</h3>
+                <p><span class="tip" data-tip-title="NIIF" data-detail="Comparabilidad financiera es parte de la inserción global; acceso a socios, financiación y mercados.">NIIF = competitividad</span></p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 17 Conclusiones -->
+        <section class="slide" data-slide="17" data-nav-title="Conclusiones principales">
+          <span class="slide-watermark">17</span>
+          <div class="slide__inner slide-layout">
+            <div class="slide-main">
+              <h2 class="slide-title">Conclusiones principales</h2>
+              <ol class="numbered-list">
+                <li><span class="tip" data-tip-title="Conclusión 1" data-detail="Incluye decisiones racionales, aprendizaje, costos, redes, innovación y capacidades del emprendedor — no solo exportar.">Proceso estratégico y relacional</span></li>
+                <li><span class="tip" data-tip-title="Conclusión 2" data-detail="Uppsala y ciclo de vida explican gradualidad; redes, born global e interfaz mercadeo-emprendimiento explican aceleración y oportunidad.">Teorías tradicionales necesarias pero insuficientes</span></li>
+                <li><span class="tip" data-tip-title="Conclusión 3" data-detail="Las tres empresas lograron conexiones internacionales relevantes sin planeación sistemática estricta.">Internacionalización real puede ser desordenada</span></li>
+                <li><span class="tip" data-tip-title="Conclusión 4" data-detail="I+D y maquinaria avanzada no bastan sin mercadeo, logística, protección de PI y estrategia comercial (casos X1 y X2).">Tecnología + mercado + PI</span></li>
+                <li><span class="tip" data-tip-title="Conclusión 5" data-detail="Políticas centradas en exportación de bienes omiten servicios, conocimiento e I+D intangible.">Políticas amplias</span></li>
+                <li><span class="tip" data-tip-title="Conclusión 6" data-detail="Sin información comparable y confiable, la pyme limita acceso a socios, financiación y mercados internacionales.">NIIF como inserción global</span></li>
+              </ol>
+            </div>
+            <aside class="slide-aside">
+              <img src="images/slide-05.png" alt="Integración estratégica" class="slide-img">
+            </aside>
+          </div>
+        </section>
+
+        <!-- 18 Recomendaciones -->
+        <section class="slide" data-slide="18" data-nav-title="Recomendaciones">
+          <span class="slide-watermark">18</span>
+          <div class="slide__inner slide-layout slide-layout--reverse">
+            <aside class="slide-aside">
+              <img src="images/slide-09.png" alt="Ruta estratégica" class="slide-img">
+            </aside>
+            <div class="slide-main">
+              <h2 class="slide-title">Recomendaciones (PDF)</h2>
+              <div class="reco-grid">
+                <div class="reco-item"><span class="reco-icon">01</span><p><span class="tip" data-tip-title="Cadena de valor" data-detail="Evaluar compras, I+D, producción, servicios, capacitación, financiamiento, ventas, alianzas y propiedad intelectual en toda la cadena.">Cadena de valor internacional completa</span></p></div>
+                <div class="reco-item"><span class="reco-icon">02</span><p><span class="tip" data-tip-title="Alta tecnología" data-detail="No tratarlas igual que manufactureras tradicionales; diseñar estrategias diferenciadas por nicho y conocimiento.">Estrategias para alta tecnología</span></p></div>
+                <div class="reco-item"><span class="reco-icon">03</span><p><span class="tip" data-tip-title="Capacidades" data-detail="Mercadeo internacional, logística, negociación, protección de PI y gestión de redes.">Fortalecer mercadeo y PI</span></p></div>
+                <div class="reco-item"><span class="reco-icon">04</span><p><span class="tip" data-tip-title="Emprendedor" data-detail="Incorporar perfil del fundador y disposición al riesgo como variables centrales del diagnóstico.">Liderazgo y riesgo en el diagnóstico</span></p></div>
+                <div class="reco-item"><span class="reco-icon">05</span><p><span class="tip" data-tip-title="Investigación" data-detail="Promover estudios longitudinales en pymes latinoamericanas para ver evolución de rutas internacionales.">Estudios longitudinales LATAM</span></p></div>
+                <div class="reco-item"><span class="reco-icon">06</span><p><span class="tip" data-tip-title="NIIF" data-detail="Acompañar adopción de estándares y preparación de estados financieros útiles para actores internacionales.">Adopción de NIIF</span></p></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 19 Glosario -->
+        <section class="slide" data-slide="19" data-nav-title="Glosario clave">
+          <span class="slide-watermark">19</span>
+          <div class="slide__inner">
+            <h2 class="slide-title">Glosario clave</h2>
+            <div class="glossary-grid">
+              <div class="gloss-item"><strong>Internacionalización</strong><span class="tip" data-tip-title="Definición" data-detail="Proceso por el cual la empresa desarrolla actividades, relaciones u operaciones más allá de su país de origen.">Actividades transfronterizas</span></div>
+              <div class="gloss-item"><strong>IDE</strong><span class="tip" data-tip-title="IDE" data-detail="Inversión directa en el exterior: establecer o adquirir operaciones productivas o comerciales en otro país.">Inversión en el exterior</span></div>
+              <div class="gloss-item"><strong>Born global</strong><span class="tip" data-tip-title="Born global" data-detail="Empresa que nace con orientación internacional o se internacionaliza muy temprano en su ciclo de vida.">Global desde el inicio</span></div>
+              <div class="gloss-item"><strong>Distancia psicológica</strong><span class="tip" data-tip-title="Distancia" data-detail="Diferencias culturales, lingüísticas, políticas o institucionales que dificultan información entre empresa y mercado.">Barreras de información</span></div>
+              <div class="gloss-item"><strong>OLI</strong><span class="tip" data-tip-title="OLI" data-detail="Propiedad, localización e internalización (Dunning) como condiciones para inversión internacional.">Paradigma ecléctico</span></div>
+              <div class="gloss-item"><strong>NIIF</strong><span class="tip" data-tip-title="NIIF" data-detail="Estándares internacionales para preparar, presentar y comparar información financiera (IFRS).">Reportes comparables</span></div>
+            </div>
+            <p class="hint-bar">Frase del documento: internacionalizarse depende de capacidades, redes, liderazgo, riesgo, tecnología, PI y reporte financiero confiable.</p>
+          </div>
+        </section>
+
+        <!-- 20 Cierre -->
+        <section class="slide slide--closing" data-slide="20" data-nav-title="Cierre">
+          <span class="slide-watermark slide-watermark--light">20</span>
+          <div class="slide__inner slide__inner--closing">
+            <div class="closing-content">
+              <p class="eyebrow eyebrow--light"><span class="pulse-dot"></span> Síntesis final · Panorama No. 3</p>
+              <h2 class="closing-title">La internacionalización<br>es un ecosistema</h2>
+              <blockquote class="closing-quote">De la teoría clásica a la práctica bogotana: las pymes tecnológicas internacionalizan conocimiento, redes y oportunidades — no solo contenedores de exportación.</blockquote>
+              <div class="closing-authors">
+                <p class="closing-names">Luisa Fernanda Ramos · Ana Valentina Amador</p>
+                <p class="closing-thanks">Gracias por su atención</p>
+              </div>
+            </div>
+            <div class="closing-visual">
+              <div class="visual-glow visual-glow--gold"></div>
+              <img src="images/slide-11.png" alt="Expansión global" class="slide-img slide-img--hero">
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </main>
+
+    <nav class="controls" aria-label="Navegación">
+      <button type="button" class="btn-nav" id="btnPrev" aria-label="Anterior">← Anterior</button>
+      <div class="progress-track" role="progressbar" aria-valuemin="1" aria-valuemax="20" aria-valuenow="1" id="progressBar">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+      <button type="button" class="btn-nav btn-nav--primary" id="btnNext" aria-label="Siguiente">Siguiente →</button>
+    </nav>
+
+    <div class="tooltip tooltip--bottom" id="tooltip" role="tooltip" hidden>
+      <p class="tooltip__title" id="tooltipTitle" hidden></p>
+      <p class="tooltip__text" id="tooltipText"></p>
+    </div>
+  </div>
+
+  <script src="particles.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
