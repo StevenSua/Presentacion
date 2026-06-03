@@ -1,0 +1,922 @@
+--- PAGE 1 ---
+RESUMEN COMPLETO
+ Teorías de internacionalización e
+ internacionalización de pymes
+ Síntesis analítica del documento Panorama No. 3: Internacionalización de pymes,
+ con énfasis en las teorías de internacionalización, el contexto de las pymes
+bogotanas, los casos de pymes de alta tecnología y el cierre sobre normas
+ internacionales de contabilidad.
+Documento fuente
+Revista Panorama No. 3 - Internacionalización de pymes; incluye portada de ResearchGate
+y artículos académicos del Politécnico Grancolombiano.
+Autores principales
+Pedro Pablo Cardozo, Andrés Chavarro y Carlos Ariel Ramírez; artículo final de Héctor
+Burgos Alarcón.
+Enfoque
+Internacionalización empresarial, pymes, pymes de base tecnológica, born global, redes,
+aprendizaje, innovación, competitividad y NIC/NIIF.
+Alcance del resumen
+Resume el PDF completo, no solo el primer artículo. Se indican páginas del PDF para ubicar
+los temas.
+Elaborado como guía de estudio: contiene ideas centrales, clasificación de teorías, síntesis de cada artículo,
+matrices comparativas, conclusiones y glosario.
+
+--- PAGE 2 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 2
+Tabla de contenido
+1
+Resumen ejecutivo
+2
+Mapa general del documento
+3
+Artículo 1: Teorías de internacionalización
+4
+Artículo 2: Pymes bogotanas e internacionalización
+5
+Artículo 3: Casos de pymes de alta tecnología
+6
+Artículo 4: Normas Internacionales de Contabilidad
+7
+Síntesis transversal y conclusiones
+8
+Glosario y guía rápida de estudio
+Cómo leer este resumen
+El documento fuente no es un texto aislado sino una edición académica con varios artículos conectados por un
+tema común: cómo se internacionalizan las pymes, especialmente las de base tecnológica. Por eso, este resumen
+separa los artículos, pero también integra sus aportes: teorías, contexto colombiano, evidencia de casos y
+necesidades de gestión contable internacional.
+Las páginas citadas corresponden a las páginas del PDF cargado. El documento original tiene numeración interna de revista que no
+siempre coincide con la numeración del archivo.
+
+--- PAGE 3 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 3
+1. Resumen ejecutivo
+El eje del PDF es la internacionalización de las pymes. Su idea central es que no existe una sola forma de explicar
+cómo una empresa entra en mercados internacionales. Las teorías clásicas ayudan a comprender decisiones de
+costos, localización, ventaja competitiva e inversión extranjera directa; sin embargo, las pymes -y con mayor
+fuerza las de alta tecnología- no siempre siguen trayectorias graduales ni planeadas. En muchos casos se
+internacionalizan por redes, oportunidades no previstas, actitud emprendedora, necesidad de acceder a
+conocimiento especializado o por su propia lógica de mercado global.
+La primera parte sistematiza las teorías de internacionalización: económica, de proceso y orientada a pymes. La
+segunda describe la situación de las pymes en Colombia y Bogotá, mostrando tanto su peso económico como sus
+limitaciones de innovación, formalización, acceso a crédito y capacidad de internacionalización. La tercera
+presenta casos de pymes de alta tecnología de Bogotá, mostrando que las rutas reales de internacionalización son
+heterogéneas: una empresa puede nacer global, otra puede mantenerse local aun teniendo potencial, y otra
+puede internacionalizarse por relaciones comerciales y coyunturas. La cuarta parte introduce las Normas
+Internacionales de Contabilidad, conectándolas con la necesidad de transparencia y comparabilidad financiera en
+un entorno globalizado.
+Mensajes centrales
+●
+La internacionalización no equivale solamente a exportar. El documento insiste en que también incluye
+importación, I+D internacional, alianzas, redes de conocimiento, inversión directa, financiamiento, licencias y
+prestación transfronteriza de servicios.
+●
+Las pymes de alta tecnología desafían los modelos tradicionales. Pueden internacionalizar su conocimiento, sus
+redes o sus servicios antes de consolidar una operación comercial nacional amplia.
+●
+La actitud del empresario importa. La aversión o disposición al riesgo, la visión global y la capacidad de detectar
+oportunidades explican comportamientos que los modelos de planeación no capturan por completo.
+●
+Las redes son decisivas. Contactos académicos, científicos, proveedores, clientes, ferias, alianzas y cooperación
+internacional pueden abrir mercados y proyectos incluso sin planeación formal.
+●
+Bogotá aparece como laboratorio clave. El texto la presenta como centro empresarial y competitivo del país, pero
+con retos de innovación, bienes de capital, cultura empresarial y orientación al mercado interno.
+●
+La contabilidad internacional es parte del mismo fenómeno. Las NIC/NIIF buscan que los estados financieros sean
+comparables, transparentes y útiles para operar en mercados globales.
+Idea fuerza para recordar
+El documento pasa de teorías generales sobre empresas multinacionales a una mirada más realista de las
+pymes: para estas empresas, internacionalizarse no siempre es un proceso lineal, grande y planificado; puede
+ser un proceso emergente, relacional, oportunista, basado en conocimiento y fuertemente condicionado por el
+perfil del emprendedor.
+
+--- PAGE 4 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 4
+2. Mapa general del documento
+El PDF está compuesto por portada, editorial, tabla de contenido y cuatro artículos principales. La secuencia tiene
+lógica: primero se explican teorías, luego se revisa el entorno de las pymes bogotanas, después se contrastan las
+teorías con casos reales de pymes de alta tecnología y, finalmente, se introduce la necesidad de normas contables
+internacionales para operar con información financiera comparable.
+ Sección
+ Págs. PDF
+ Propósito
+ Aporte principal
+Portada, contenido y
+editorial
+1-5
+Presentar la edición y el proyecto de
+investigación sobre pymes de base
+tecnológica en Bogotá.
+Sitúa la internacionalización de pymes
+como tema emergente en Colombia y
+como campo de interés académico.
+Teorías de
+internacionalización
+6-24
+Recopilar y clasificar propuestas teóricas
+sobre internacionalización.
+Ordena las teorías en perspectivas
+económicas, de proceso y modelos
+orientados a pymes; propone nuevas
+preguntas de investigación.
+Pymes bogotanas y sus
+procesos de
+internacionalización
+26-43
+Hacer un balance de las pymes
+colombianas y bogotanas, especialmente
+de base tecnológica.
+Conecta datos de contexto,
+competitividad de Bogotá, sectores
+tecnológicos y literatura aplicada al
+caso colombiano.
+Internacionalización de
+pymes de alta tecnología
+de Bogotá: casos de
+estudio
+45-66
+Analizar tres empresas y contrastar
+modelos teóricos con prácticas reales.
+Muestra que las trayectorias son
+diversas: born global, redes, prudencia
+exportadora, oportunidades
+coyunturales y peso del empresario.
+Normas Internacionales
+de Contabilidad
+67-72
+Explicar origen, procedimiento y relevancia
+de NIC/NIIF.
+Vincula globalización, transparencia
+financiera y necesidad de armonización
+contable en Colombia.
+Relación entre los artículos
+El primer artículo funciona como marco conceptual. El segundo contextualiza por qué el tema importa para
+Colombia y Bogotá. El tercero es el contraste empírico: pone a prueba la utilidad de los modelos en empresas
+reales. El cuarto amplía la mirada hacia la infraestructura contable requerida para competir y reportar información
+en un mundo internacionalizado.
+
+--- PAGE 5 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 5
+3. Artículo 1: Teorías de internacionalización
+PDF, págs. 6-24 Este artículo recopila enfoques teóricos que explican por qué y cómo las empresas se
+internacionalizan. Su punto de partida es que la internacionalización no puede entenderse desde una sola escuela:
+depende de costos, ventajas, aprendizaje, innovación, redes, emprendimiento y características del sector.
+3.1. Propósito del artículo
+El artículo busca organizar las teorías de internacionalización y destacar cuáles son más útiles para analizar
+pymes, especialmente de alta tecnología. En ese tipo de empresas, los modelos creados para grandes
+multinacionales resultan insuficientes, porque la internacionalización puede suceder rápido, con pocos recursos,
+desde redes de conocimiento o incluso desde el nacimiento de la empresa.
+3.2. Perspectiva económica
+La perspectiva económica explica la internacionalización desde la eficiencia, la ventaja, la localización y la
+racionalidad de costos. En su base está la teoría clásica del comercio internacional: los países se especializan
+según sus recursos, costos y productividad. Luego aparecen teorías que explican por qué una empresa decide
+producir, invertir o controlar operaciones en otro país.
+ Teoría / enfoque
+ Autores
+asociados
+ Idea esencial
+ Aplicación a
+internacionalización
+Ventaja absoluta
+Adam Smith
+Un país debe producir y exportar aquello
+en lo que es más eficiente por
+disponibilidad o bajo costo de recursos.
+Explica el comercio por
+especialización y diferencias de
+eficiencia.
+Ventaja comparativa
+David Ricardo
+Incluso sin ventaja absoluta, dos países
+se benefician si sus costos relativos son
+distintos.
+Justifica el intercambio internacional
+aunque un país sea menos eficiente
+en términos absolutos.
+Demanda recíproca y
+términos de
+intercambio
+John Stuart Mill
+El equilibrio comercial depende de la
+relación entre exportaciones,
+importaciones y demanda entre países.
+Añade una explicación de precios
+relativos y disposición a
+exportar/importar.
+Ventaja monopolística /
+organización industrial
+Hymer, Kindleberger
+La firma extranjera necesita una ventaja
+exclusiva para competir contra empresas
+locales.
+Sirve para explicar inversión directa
+en el exterior basada en tecnología,
+marca, organización, know-how o
+acceso a crédito.
+Internalización
+Buckley y Casson
+La empresa organiza internamente
+transacciones cuando el mercado
+externo es costoso o imperfecto.
+Explica por qué una multinacional
+controla activos, conocimiento o
+procesos en lugar de
+venderlos/licenciarlos.
+Paradigma ecléctico OLI
+Dunning
+La inversión exterior ocurre si se
+combinan ventajas de propiedad,
+localización e internalización.
+Integra organización industrial,
+costos de transacción, localización y
+comercio internacional.
+Enfoque
+macroeconómico de IDE
+Kojima
+La inversión debe moverse desde
+sectores con desventaja relativa en el
+país inversor hacia sectores con ventaja
+potencial en el país receptor.
+Contrasta patrones japoneses y
+estadounidenses de inversión
+internacional.
+Ventaja competitiva de
+las naciones
+Porter
+La competitividad depende de factores
+avanzados, demanda, industrias
+relacionadas, rivalidad y gobierno.
+El diamante competitivo ayuda a
+decidir por qué, cómo y dónde
+internacionalizar.
+Lectura clave
+Las teorías económicas son potentes para entender empresas grandes, producción internacional e inversión directa. Sin
+embargo, tienden a asumir decisiones racionales, análisis de costos y disponibilidad de recursos, lo que no siempre
+representa la realidad de una pyme de alta tecnología que se mueve por contactos, conocimiento, oportunidad o nichos
+globales.
+
+--- PAGE 6 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 6
+3.3. Perspectiva de proceso
+La perspectiva de proceso interpreta la internacionalización como una trayectoria de aprendizaje gradual. Una
+empresa nacional se convierte en internacional acumulando experiencia, conocimiento de mercados y
+compromiso de recursos. El paso de una etapa a otra depende de la reducción de incertidumbre y del aprendizaje
+obtenido en operaciones previas.
+ Modelo
+ Cómo entiende la
+internacionalización
+ Etapas o componentes
+ principales
+ Crítica / límite
+Modelo Uppsala
+Proceso incremental basado en
+experiencia y conocimiento de
+mercado.
+Exportación esporádica;
+representantes independientes;
+sucursal comercial; unidades
+productivas en el exterior.
+Puede no aplicar a empresas
+con muchos recursos,
+mercados homogéneos o
+experiencia transferible;
+tampoco explica bien firmas
+que nacen globales.
+Modelo de innovación
+La internacionalización es una
+innovación empresarial y una
+decisión creativa bajo
+incertidumbre.
+Mercado doméstico;
+preexportadora; exportadora
+experimental; exportadora
+activa; exportadora
+comprometida.
+Depende mucho del papel del
+directivo y de decisiones
+acumulativas.
+Planeación sistémica
+Secuencia racional de análisis y
+ejecución.
+Medir oportunidades; plantear
+objetivos; seleccionar modo de
+entrada; formular plan de
+mercadeo; ejecutar.
+Supone racionalidad alta y
+puede ser rígida frente a
+trayectorias emergentes.
+Ciclo de vida del
+producto
+La localización internacional
+cambia según madurez del
+producto.
+Introducción en origen;
+crecimiento con exportación e
+inversión; madurez con
+relocalización; declive con
+abandono del país de origen.
+Funciona mejor para productos
+industriales y grandes
+empresas; menos para
+servicios, conocimiento o
+tecnología cambiante.
+Conceptos importantes
+●
+Compromiso incremental: la empresa arriesga más recursos a medida que aprende.
+●
+Distancia psicológica: diferencias de idioma, cultura, política, educación o desarrollo industrial que dificultan el
+flujo de información.
+●
+Experiencia acumulada: el conocimiento de un mercado puede facilitar la entrada a otros mercados similares.
+●
+Planeación vs. aprendizaje: algunas teorías privilegian planes formales; otras, ensayo, error y adaptación.
+
+--- PAGE 7 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 7
+3.4. Teorías orientadas a pymes
+Las pymes presentan restricciones de recursos, menor estructura formal, alta dependencia del empresario y
+mayor flexibilidad. Por eso, el documento destaca enfoques que explican mejor su internacionalización: redes,
+born global, fases/ciclo de vida, enfoque estratégico e interfaz mercadeo-emprendimiento.
+ Enfoque
+ Idea central
+ Por qué es útil para pymes
+Ejemplo de manifestación
+Redes
+La entrada a mercados externos
+surge de relaciones con clientes,
+proveedores, distribuidores,
+competidores, gobiernos, pares o
+contactos personales.
+Las pymes compensan falta de
+recursos con información,
+confianza y acceso a
+oportunidades mediante
+relaciones.
+Un contacto académico, cliente
+internacional o feria genera la
+primera operación exterior.
+Born global
+Empresas que nacen
+internacionales o se
+internacionalizan en sus primeros
+años.
+Explica firmas de tecnología o
+nicho que no pueden depender
+solo del mercado local.
+Una empresa de biotecnología
+vende conocimiento, servicios o
+desarrolla proyectos con socios
+extranjeros desde el inicio.
+Fases, procesos y
+ciclo de vida
+La empresa puede
+internacionalizarse mediante
+alianzas de servicio, distribución,
+desarrollo de producto o canales
+globales.
+Reconoce rutas más flexibles que
+la exportación tradicional.
+Alianza para desarrollar
+producto o para distribuir en
+mercados externos.
+Enfoque estratégico
+La internacionalización se liga a
+decisiones de competitividad,
+posicionamiento, adaptación y
+expansión.
+Ayuda a explicar cuándo una pyme
+decide entrar a mercados externos
+como parte de su estrategia.
+Buscar un nicho internacional
+donde la tecnología propia tenga
+mayor valor.
+Interfaz mercadeo-
+emprendimiento
+Une innovación, proactividad, toma
+de riesgos y lectura de
+oportunidades de mercado.
+Captura el papel central del
+fundador/directivo en pymes.
+Empresario que aprovecha una
+oportunidad no planeada y la
+convierte en negocio
+internacional.
+3.5. Clasificación propuesta para pymes de base tecnológica
+El artículo propone ordenar los modelos en tres grandes generaciones. Esta clasificación sirve para comprender la
+evolución del pensamiento: de modelos lineales y graduales a enfoques integradores, relacionales y adaptativos.
+ Generación
+ Modelos incluidos
+ Rasgo dominante
+ Utilidad para pymes
+ tecnológicas
+Teorías pioneras
+Uppsala, planeación sistémica,
+perspectiva de contingencia
+Aprendizaje experiencial,
+condiciones del entorno y
+compromiso gradual.
+Aportan la idea de que la
+experiencia reduce incertidumbre,
+pero no explican bien la
+aceleración.
+Segunda generación
+Modelos de innovación, elección
+adaptativa, modelo híbrido,
+costos de transacción,
+paradigma ecléctico
+Mezclan aprendizaje,
+planeación, motivaciones,
+recursos y decisiones de
+entrada.
+Permiten entender empresas que
+combinan experiencia con
+planeación flexible.
+Nuevas perspectivas
+Redes, born global, holístico,
+interfaz
+mercadeo-emprendimiento
+Responden a sociedad del
+conocimiento, globalización, TIC,
+nichos y relaciones
+internacionales.
+Son las más cercanas a pymes de
+alta tecnología y conocimiento.
+3.6. Nuevas preguntas de investigación
+El artículo identifica vacíos importantes: falta de estudios sobre pymes de economías emergentes, especialmente
+América Latina; escasez de estudios longitudinales que sigan a las empresas en el tiempo; necesidad de analizar
+cultura organizacional, apoyo institucional, políticas públicas, gestión del conocimiento, edad de entrada
+internacional, aprendizaje y reducción de costos de información; y conveniencia de profundizar en modelos de
+redes, emprendimiento, sistemas dinámicos, autoorganización y complejidad.
+
+--- PAGE 8 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 8
+4. Artículo 2: Las pymes bogotanas y sus procesos de
+internacionalización
+PDF, págs. 26-43 Este artículo ofrece un primer balance de las pymes colombianas y bogotanas, con especial
+atención a las de base tecnológica. Su objetivo es contextualizar la internacionalización en Colombia entre 2000 y
+2007, revisando definiciones, datos, apoyo institucional, competitividad de Bogotá, sectores tecnológicos y
+literatura aplicada.
+4.1. Definiciones y características
+ Tipo
+ Criterio de personal
+ Criterio de activos
+ Comentario
+Microempresa
+Hasta 10 trabajadores
+Menos de 501 salarios mínimos
+mensuales legales vigentes
+Unidad empresarial muy pequeña;
+alto peso en la informalidad.
+Pequeña empresa
+Entre 11 y 50 trabajadores
+Entre 501 y menos de 5.000 salarios
+mínimos
+Base importante de empleo y
+producción; suele tener
+restricciones de crédito y
+formalización.
+Mediana empresa
+Entre 51 y 200
+trabajadores
+Entre 5.001 y 30.000 salarios
+mínimos
+Mayor escala, pero aún limitada
+frente a grandes empresas.
+La empresa de base tecnológica se caracteriza por: desarrollar tecnología; tener intención clara de innovación
+radical o incremental; realizar I+D intensiva; emplear personal científico y técnico calificado; y, en algunos
+contextos, explotar y proteger propiedad intelectual. Este perfil la hace más propensa a relacionarse con redes
+globales, nichos especializados y conocimiento internacional.
+4.2. Datos generales de pymes en Colombia
+●
+Para el año 2000 se identificaron 967.345 microestablecimientos con hasta diez empleados, aunque la
+informalidad impide medir con precisión el universo real.
+●
+El texto señala que solo una fracción de pymes había accedido al crédito bancario tradicional, lo que evidencia
+invisibilidad e informalidad empresarial.
+●
+El sector aporta de manera significativa al empleo, producción manufacturera, salarios y valor agregado.
+●
+En 2000, la mayoría de microestablecimientos se ubicaba en comercio y servicios, con menor participación
+industrial.
+●
+Las pymes exportadoras crecieron entre 1999 y 2003, con destinos relevantes como Estados Unidos, Ecuador y
+Venezuela.
+4.3. Apoyo institucional y política pública
+El artículo menciona la Ley 590 de 2000 y su modificación por la Ley 905 de 2003 como marco de promoción de
+mipymes. Las acciones señaladas incluyen simplificación de trámites, acceso a mercados, estímulos, programas
+de comercio exterior, promoción de ciencia y tecnología, acceso a producción más limpia, apoyo educativo,
+crédito, garantías, descuentos para creación de empresa, leasing y redescuento a través de banca de desarrollo.
+Lectura crítica
+Aunque hay oferta institucional, el texto muestra una brecha entre instrumentos disponibles y capacidades reales de
+las pymes. La existencia de programas no garantiza apropiación, uso eficaz ni internacionalización sostenible.
+
+--- PAGE 9 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 9
+4.4. Bogotá como entorno de pymes de base tecnológica
+Bogotá se presenta como el centro natural para estudiar pymes y tecnología en Colombia. El artículo afirma que la
+ciudad aporta una cuarta parte del PIB nacional, genera tres millones de empleos y concentra un tejido
+empresarial en el que el 98% de las empresas son pymes. También se destaca su papel en comercio exterior: por
+Bogotá ingresó el 55% de las importaciones en 2002 y salió el 28% de las exportaciones nacionales.
+Desde el sistema de indicadores de competitividad departamental, Bogotá aparece en primer lugar en el Índice de
+Competitividad Departamental, en competitividad estructural y en competitividad revelada. El liderazgo se explica
+por variables empresariales, innovación, tecnología, infraestructura, localización y mayor acumulación de
+capacidades frente a otros departamentos.
+ Fortalezas de Bogotá
+ Debilidades identificadas
+Alta concentración empresarial y de pymes.
+Estructura productiva orientada al mercado interno.
+Liderazgo en competitividad nacional.
+Baja penetración internacional sostenida.
+Mayor presencia de innovación y tecnología respecto a otras
+regiones.
+Limitada producción de bienes de capital y dependencia de
+importaciones tecnológicas.
+Concentración de empleo, PIB y comercio exterior.
+Muchas empresas pequeñas, familiares y con gestión empírica.
+Potencial para sectores de base tecnológica.
+Innovación más casual que sistemática en muchas firmas.
+4.5. Sectores tecnológicos revisados
+El artículo utiliza referencias a sectores como artes gráficas e industria de software para ilustrar capacidades de
+innovación e internacionalización. En artes gráficas se mencionan cambios de propiedad, integración mundial,
+presión tecnológica y adaptación a nuevas demandas. En software se destaca la importancia de capacidades
+tecnológicas, mercado, capital humano, exportaciones y vínculos con la economía del conocimiento.
+4.6. Revisión de literatura aplicada a Colombia
+El texto identifica dos grandes corrientes en la bibliografía nacional sobre internacionalización: una centrada en
+explicar y documentar teorías particulares con base en hechos empíricos, y otra orientada al deber ser, es decir, a
+ofrecer herramientas para que empresarios y gerentes tomen mejores decisiones de internacionalización.
+También señala que gran parte de la literatura reduce la internacionalización a exportar e importar, dejando por
+fuera inversión directa, licencias, joint ventures, I+D internacional, financiación y otras formas de inserción global.
+4.7. Consideraciones finales del artículo
+La conclusión principal es que existe un relativo desinterés por estudiar las pymes de base tecnológica en
+Bogotá. Esto es problemático porque estas empresas pueden tener experiencias administrativas, redes y
+dinámicas de negocio muy relevantes para la globalización. El artículo llama a ampliar la mirada de
+internacionalización y a no limitarla a comercio exterior tradicional.
+
+--- PAGE 10 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 10
+5. Artículo 3: Internacionalización de pymes de alta
+tecnología de Bogotá - casos de estudio
+PDF, págs. 45-66 Este artículo presenta casos del proyecto sobre prácticas de internacionalización de 16 pymes
+de base tecnológica de Bogotá. El texto selecciona tres empresas -X1, X2 y X3- para mostrar que las trayectorias
+reales no obedecen a un único patrón teórico.
+5.1. Marco teórico aplicado
+El artículo retoma una lectura cronológica de teorías: modelos pioneros de los años setenta y ochenta, teorías de
+segunda generación y nuevas perspectivas desde 1990 en adelante. La figura del documento ordena la evolución
+desde Uppsala, planeación sistémica y contingencia, pasando por innovación, costos de transacción y paradigma
+ecléctico, hasta modelos holísticos, redes e interfaz mercadeo-emprendimiento.
+La pregunta de fondo es: ¿los modelos tradicionales explican las pymes de alta tecnología de Bogotá? La
+evidencia muestra que solo parcialmente. Las empresas estudiadas combinan oportunidad, redes, conocimiento,
+resistencia al riesgo, visión del fundador, alianzas, importaciones, prestación de servicios y aprendizaje informal.
+ Caso
+ Sector / perfil
+ Rasgo de internacionalización
+ Modelo que mejor
+ayuda a entenderlo
+X1
+Centro de investigación sin ánimo
+de lucro en biotecnología, biología
+molecular y microbiología.
+Nace con contactos internacionales y redes de
+I+D; exportación de productos débil, pero
+servicios, capacitación y cooperación
+internacional fuertes.
+Born global + redes +
+emprendimiento basado en
+conocimiento.
+X2
+Empresa familiar de holografía,
+óptica de precisión y desarrollo
+tecnológico.
+Opera con I+D, importaciones, redes técnicas
+y potencial exportador, pero con baja
+disposición al riesgo y renuencia a exportar.
+Interfaz
+mercadeo-emprendimiento
+en versión prudente +
+aprendizaje lento.
+X3
+Empresa familiar de impresión y
+artes gráficas con tecnología
+avanzada.
+Se internacionaliza por referencias de
+clientes, ferias, compra de tecnología y
+oportunidad comercial; intenta sede en Miami,
+luego representación.
+Proceso coyuntural + riesgo
+alto + aprendizaje por
+clientes y redes comerciales.
+
+--- PAGE 11 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 11
+5.2. Caso X1
+X1 es un centro de investigación nacido de una incubadora de empresas. Trabaja en genética molecular,
+microbiología ambiental y biotecnología molecular. Sus productos incluyen kits diagnósticos, sistemas de
+extracción y purificación de ADN/ARN, medios de cultivo y desarrollos relacionados con enfermedades como la
+mancha blanca del camarón o la tuberculosis bovina.
+Su internacionalización es fuerte en redes científicas, cooperación, congresos, capacitación y acuerdos de I+D. Ha
+realizado proyectos con centros de investigación de Argentina, Holanda y otros países. Sin embargo, su
+exportación de productos es débil por falta de logística, conocimiento de mercado, mercadeo y capacidad de
+respuesta frente a competidores. También se evidencian vacíos en propiedad intelectual: algunos acuerdos no
+aseguraron regalías o protección suficiente.
+Conclusión del caso X1
+X1 demuestra que una pyme de conocimiento puede ser internacional sin que sus ventas internacionales de productos
+sean altas. La internacionalización ocurre en la cadena de valor del conocimiento: I+D, cooperación, capacitación,
+publicaciones, reputación científica y redes. Por eso, los modelos basados solo en exportación no capturan su realidad.
+5.3. Caso X2
+X2 es una empresa de base familiar enfocada en holografía y óptica de precisión. Surge como respuesta a una
+oportunidad de mercado: fabricar hologramas y soluciones técnicas que antes eran suplidas por actores externos.
+Desarrolla maquinaria, software y conocimiento propio, importa insumos especializados y participa en foros de
+expertos internacionales.
+A pesar de su potencial tecnológico, X2 es prudente y renuente a la exportación. Su internacionalización se
+expresa más en redes técnicas, importación de suministros, contactos con proveedores y aprendizaje tecnológico
+que en ventas externas agresivas. El documento señala debilidades administrativas, de mercadeo, inventarios y
+financiación internacional, junto con una alta capacidad técnica y una posición regional potencialmente
+diferenciada.
+Conclusión del caso X2
+X2 muestra que tener tecnología avanzada no garantiza internacionalización comercial. La aversión al riesgo, la
+estructura familiar, la falta de mercadeo y el temor a negociar desde una posición débil pueden frenar la entrada a
+mercados externos.
+5.4. Caso X3
+X3 es una empresa familiar de artes gráficas e impresión fundada en 1980. Desarrolla capacidades productivas,
+adopta tecnología de Japón y Alemania, trabaja con agencias de publicidad y logra contratos con clientes como
+Samsung y Sony Music Colombia para material promocional e instructivo. Su ventaja se basa en flexibilidad,
+calidad, adaptación a requerimientos especiales y tecnología de frontera.
+Su internacionalización inicia por referencias de clientes locales y no por un plan sistemático. Tuvo operaciones y
+clientes en América, abrió una sede en Miami en 1999, pero las restricciones posteriores al 11 de septiembre
+encarecieron y complicaron la operación, por lo que terminó con representación comercial. El caso evidencia
+internacionalización coyuntural, toma de riesgo y aprendizaje por oportunidad.
+Conclusión del caso X3
+X3 confirma que la internacionalización puede comenzar por redes comerciales y relaciones de confianza. Aunque no
+nace global, desarrolla experiencia internacional al atender clientes y aprovechar oportunidades derivadas de sus
+capacidades locales.
+
+--- PAGE 12 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 12
+5.5. Comparación de los tres casos
+ Aspecto
+ X1
+ X2
+ X3
+Desarrollo evolutivo de
+internacionalización
+No
+Sí
+Sí
+Planeación sistemática
+No
+No
+No
+Unimodal internacional
+No
+No
+No
+Inclusión en redes
+internacionales
+Sí
+Sí
+No
+Internacionalización coyuntural
+Sí
+No
+Sí
+Velocidad de internacionalización
+Born global
+Lenta
+Lenta
+Disposición al riesgo
+Alta
+Baja
+Alta
+Edad de la empresa
+10 años
+Más de 10 años
+Más de 10 años
+Interpretación
+La tabla del documento demuestra que ninguna de las tres empresas siguió una planeación sistemática estricta.
+Incluso cuando hubo internacionalización, esta se combinó con redes, oportunidades, importaciones, servicios,
+contactos y decisiones del empresario. Esto refuerza la idea de que las pymes de alta tecnología no pueden
+evaluarse únicamente con modelos de exportación gradual.
+5.6. Conclusiones del artículo de casos
+●
+No existe una única tendencia de internacionalización para pymes de alta tecnología.
+●
+Las empresas pueden ser born global, pueden internacionalizarse lentamente o pueden tener condiciones para
+hacerlo y aun así mantenerse aisladas o prudentes.
+●
+La flexibilidad y capacidad de adaptación pesan más que la existencia de procedimientos administrativos
+perfectos.
+●
+El aprendizaje se obtiene muchas veces durante la operación internacional, no solo antes de ella.
+●
+Las políticas de comercio exterior enfocadas en bienes pueden dejar por fuera servicios, conocimiento, I+D y
+transferencia intangible.
+●
+El liderazgo emprendedor, la visión global y la disposición al riesgo son factores determinantes para activar o
+frenar la internacionalización.
+
+--- PAGE 13 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 13
+6. Artículo 4: Normas Internacionales de Contabilidad
+PDF, págs. 67-72 Aunque el tema parece distinto, el artículo de NIC/NIIF se conecta con la internacionalización
+porque la operación global exige información financiera comparable, transparente y entendible para
+inversionistas, socios, clientes y entidades de otros países.
+6.1. ¿Qué son las NIC/NIIF?
+Las Normas Internacionales de Contabilidad son reglas de calidad para presentar y registrar información en
+estados financieros. Buscan reflejar la esencia económica de las operaciones, presentar razonablemente la
+situación de una empresa y hacer que la información sea útil para análisis, comparación y toma de decisiones. El
+texto explica que las NIC cambiaron su denominación hacia IFRS/NIIF, emitidas por el IASB, con énfasis en
+información financiera consolidada.
+6.2. Origen y necesidad
+El artículo repasa antecedentes como el Accounting Principles Board y el FASB en Estados Unidos, la creación de
+organismos profesionales y la evolución hacia estándares internacionales. La globalización de negocios hizo
+evidente que los estados financieros preparados bajo reglas nacionales distintas dificultaban el análisis de
+empresas que operaban en diferentes países. Por eso surgió la necesidad de procedimientos uniformes y
+comparables.
+6.3. Procedimiento para elaborar una norma
+1
+El Consejo crea un comité especial con representantes y expertos.
+2
+El comité identifica problemas contables, revisa prácticas nacionales/regionales y aplica el marco conceptual.
+3
+Se prepara un borrador de declaración de principios o documento de discusión.
+4
+Se reciben comentarios públicos durante un periodo de exposición.
+5
+Se prepara un proyecto de norma y se publica para nuevos comentarios.
+6
+El comité revisa comentarios y el Consejo aprueba la norma definitiva con mayorías calificadas.
+6.4. Colombia y la armonización contable
+El artículo menciona discusiones en Colombia sobre adopción de estándares internacionales en materia fiscal,
+monetaria, financiera y contable. El objetivo es aumentar transparencia, combatir corrupción, lavado de activos y
+evasión fiscal, y facilitar la toma de decisiones. También se destaca la necesidad de que las empresas -incluidas
+micro, pequeñas y medianas- creen una infraestructura contable coherente con exigencias extranjeras.
+6.5. Conclusión del artículo
+La adopción de normas internacionales no es solo un asunto contable: es una condición de competitividad. Una
+pyme que quiere internacionalizarse necesita reportar información creíble, comparable y entendible para
+bancos, inversionistas, socios comerciales y entidades internacionales.
+
+--- PAGE 14 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 14
+7. Síntesis transversal y conclusiones
+Visto como conjunto, el PDF sostiene que la internacionalización de pymes es un fenómeno multidimensional. No
+se reduce a exportar, no depende únicamente de tener una estructura administrativa ideal y no siempre sigue
+una secuencia lineal. La internacionalización puede emerger desde conocimiento, redes, oportunidad, nichos
+globales, presión competitiva, acceso a tecnología, aprendizaje o visión emprendedora.
+ Eje
+ Conclusión transversal
+ Implicación práctica
+Teoría
+Las perspectivas económicas, de proceso y de redes
+explican partes distintas del fenómeno.
+Usar varias teorías a la vez, no una sola, para
+diagnosticar una pyme.
+Pyme
+La pyme opera con restricciones de recursos,
+informalidad y dependencia del empresario.
+Diseñar estrategias de internacionalización realistas,
+progresivas o de nicho.
+Tecnología
+Las empresas de alta tecnología pueden
+internacionalizar conocimiento y servicios antes que
+productos físicos.
+Medir I+D, redes, cooperación y propiedad
+intelectual, no solo ventas externas.
+Bogotá
+La ciudad tiene liderazgo competitivo, pero enfrenta
+debilidades de innovación sistemática y orientación
+internacional.
+Fortalecer capital humano, bienes de capital,
+financiación, mercadeo e instituciones de apoyo.
+Casos
+No hay una ruta única: born global, prudencia,
+oportunidad y redes coexisten.
+El diagnóstico debe atender historia, liderazgo, riesgo,
+mercado, redes y capacidades.
+Contabilidad
+La comparabilidad financiera es parte de la
+inserción global.
+Preparar a las pymes para reportar bajo estándares
+internacionales y negociar con actores externos.
+7.1. Conclusiones principales
+1
+La internacionalización es un proceso estratégico y relacional. Incluye decisiones racionales, aprendizaje, costos,
+redes, innovación y capacidades del emprendedor.
+2
+Las teorías tradicionales son necesarias, pero insuficientes para pymes tecnológicas. Modelos como Uppsala y
+ciclo de vida explican gradualidad; redes, born global e interfaz mercadeo-emprendimiento explican aceleración,
+oportunidad y liderazgo.
+3
+La internacionalización real puede ser desordenada. Las empresas estudiadas no siguieron planeación
+sistemática, pero algunas lograron conexiones internacionales relevantes.
+4
+La capacidad tecnológica debe combinarse con mercado. Tener I+D, productos innovadores o maquinaria
+avanzada no basta si faltan mercadeo, logística, protección intelectual y estrategia comercial.
+5
+Las instituciones deben reconocer servicios y conocimiento. Las políticas centradas en exportación de bienes
+dejan por fuera formas clave de internacionalización de pymes de alta tecnología.
+6
+La preparación financiera y contable es parte de la competitividad internacional. Sin información comparable,
+transparente y confiable, la pyme limita su acceso a socios, financiación y mercados.
+7.2. Recomendaciones derivadas del texto
+●
+Evaluar internacionalización en toda la cadena de valor: compras, I+D, producción, servicios, capacitación,
+financiamiento, ventas, alianzas y propiedad intelectual.
+●
+Diseñar estrategias diferenciadas para pymes de alta tecnología; no tratarlas igual que empresas manufactureras
+tradicionales.
+●
+Fortalecer capacidades de mercadeo internacional, logística, negociación, protección de propiedad intelectual y
+gestión de redes.
+●
+Promover estudios longitudinales en pymes latinoamericanas para entender cómo evolucionan sus rutas
+internacionales.
+●
+Acompañar a las pymes en adopción de estándares contables y preparación de estados financieros útiles para
+actores internacionales.
+●
+Incorporar el perfil del emprendedor y la disposición al riesgo como variables centrales del diagnóstico
+empresarial.
+
+--- PAGE 15 ---
+Resumen completo - Teorías e internacionalización de pymes
+Fuente: Panorama No. 3 / documento cargado
+Página 15
+8. Glosario y guía rápida de estudio
+ Concepto
+ Definición resumida
+Internacionalización
+Proceso por el cual una empresa desarrolla actividades, relaciones, operaciones o mercados
+más allá de su país de origen.
+IDE
+Inversión directa en el exterior: establecimiento o adquisición de operaciones productivas o
+comerciales en otro país.
+Ventaja monopolística
+Ventaja exclusiva de una empresa que le permite competir en mercados extranjeros pese a la
+desventaja frente a firmas locales.
+Internalización
+Decisión de controlar dentro de la empresa transacciones o conocimiento que sería costoso o
+riesgoso negociar en el mercado.
+Paradigma OLI
+Modelo de Dunning: propiedad, localización e internalización como condiciones para inversión
+internacional.
+Distancia psicológica
+Diferencias culturales, lingüísticas, políticas o institucionales que dificultan la información entre
+empresa y mercado.
+Born global
+Empresa que nace con orientación internacional o se internacionaliza muy temprano.
+Redes
+Relaciones con actores externos que facilitan información, oportunidades, confianza y acceso a
+mercados.
+Interfaz
+mercadeo-emprendimiento
+Enfoque que vincula innovación, oportunidad, toma de riesgo y mercado para explicar la
+expansión internacional.
+Pyme de base tecnológica
+Empresa pequeña o mediana cuya actividad central se basa en desarrollo tecnológico,
+innovación, I+D y conocimiento especializado.
+NIC/NIIF
+Estándares internacionales para preparar, presentar y comparar información financiera.
+Preguntas guía para estudiar
+1
+¿Por qué la internacionalización no puede reducirse a exportaciones?
+2
+¿Qué diferencia hay entre perspectiva económica, de proceso y de redes?
+3
+¿Cuáles son las limitaciones del modelo Uppsala para explicar empresas born global?
+4
+¿Por qué Bogotá es presentada como un laboratorio relevante para estudiar pymes?
+5
+¿Qué enseñan los casos X1, X2 y X3 sobre riesgo, redes y planeación?
+6
+¿Cómo se relacionan las NIC/NIIF con la internacionalización empresarial?
+Frase final
+La internacionalización de una pyme no depende solo de querer vender afuera; depende de capacidades, redes,
+información, liderazgo, riesgo, tecnología, protección del conocimiento, lectura del mercado y capacidad de
+reportar información financiera confiable en un entorno global.
